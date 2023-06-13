@@ -26,6 +26,7 @@ export default {
     failed: '실패',
     verify: '검증',
     unauthorizedTips: '인증되지 않았습니다. 먼저 확인하십시오.',
+		stopResponding: '응답 중지',
   },
   chat: {
     newChatButton: '새로운 채팅',
@@ -88,6 +89,6 @@ export default {
     importError: '키 값 불일치',
     importRepeatTitle: '제목이 반복되어 건너뜀: {msg}',
     importRepeatContent: '내용이 반복되어 건너뜀: {msg}',
-    onlineImportWarning: '참고: JSON 파일 소스를 확인하십시오!',    
+    onlineImportWarning: '참고: JSON 파일 소스를 확인하십시오!',
   },
 }
